@@ -1,0 +1,13 @@
+{
+  "configs": [
+    {
+      "uri": "com.echo.tmallapppopup.MainActivity",
+      "url": "http://www.tmall.com/",
+      "modalThreshold": 0.5,
+      "appear": true,
+      "startTime": 1459073996,
+      "endTime": 1459160396,
+      "times": 0
+    }
+  ]
+}
